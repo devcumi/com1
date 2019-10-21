@@ -18,5 +18,5 @@ $bot_bitfaucet="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvQ+%R
 
 
 
-$hapus="of";
+$hapus="on";
 ?>
